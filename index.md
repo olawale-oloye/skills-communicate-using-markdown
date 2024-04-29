@@ -29,7 +29,7 @@ console.log(`myVar +  myLet + numbOne`);
 JS
 -[x] var myVar = "Hello Workd 5";
 -[x] let myLet = "The quick brown fox";
--[ ]const numbOne = 3;
+-[ ] const numbOne = 3;
 
 console.log(`myVar +  myLet + numbOne`);
 
