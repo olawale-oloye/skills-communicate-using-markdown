@@ -21,7 +21,7 @@ console.log(`myVar +  myLet + numbOne`);
 - [x] Item 4
   - [x] Item 4a
   - [ ] Item 4b
-  - [] Item 4c
+  - [ ] Item 4c
 
 ```
 **CODE BLOCK**
@@ -29,7 +29,7 @@ console.log(`myVar +  myLet + numbOne`);
 JS
 -[x] var myVar = "Hello Workd 5";
 -[x] let myLet = "The quick brown fox";
--[]const numbOne = 3;
+-[ ]const numbOne = 3;
 
 console.log(`myVar +  myLet + numbOne`);
 
