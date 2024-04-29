@@ -14,3 +14,23 @@ const numbOne = 3;
 console.log(`myVar +  myLet + numbOne`);
 
 ```
+
+- [x] Item 1
+- [x] Item 2
+- [ ] Item 3
+- [x] Item 4
+  - [x] Item 4a
+  - [ ] Item 4b
+  - [] Item 4c
+
+```
+**CODE BLOCK**
+
+JS
+-[x] var myVar = "Hello Workd 5";
+-[x] let myLet = "The quick brown fox";
+-[]const numbOne = 3;
+
+console.log(`myVar +  myLet + numbOne`);
+
+```
