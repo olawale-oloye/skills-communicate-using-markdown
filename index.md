@@ -3,3 +3,14 @@
 
 ![QLD Gov.  Logo](![png-transparent-government-of-queensland-government-of-australia-government-agency-central-queensland-university-white-text-logo](https://github.com/olawale-oloye/skills-communicate-using-markdown/assets/105283274/a25462ce-1710-434d-830b-ff22e80550d0)
 )
+```
+**CODE BLOCK**
+
+JS
+var myVar = "Hello Workd 5";
+let myLet = "The quick brown fox";
+const numbOne = 3;
+
+console.log(`myVar +  myLet + numbOne`);
+
+```
